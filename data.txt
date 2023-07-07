@@ -1,0 +1,11 @@
+admin : fastkhabar
+Pass : Sneha@2002
+
+Wordpress:
+
+Admin Username
+fastkhabar
+Admin Password
+Sneha@2002
+Admin Email
+sprasamedia@gmail.com
