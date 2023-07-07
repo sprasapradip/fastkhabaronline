@@ -235,6 +235,7 @@
 		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
 		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
 		</wp:postmeta>
+						
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1665204723]]></wp:meta_value>
